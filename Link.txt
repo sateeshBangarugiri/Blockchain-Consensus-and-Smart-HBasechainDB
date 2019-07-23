@@ -1,0 +1,2 @@
+Followed Link:
+https://medium.com/coinmonks/solidity-smart-contract-on-hyperledger-fabric-3d50f25e577b
